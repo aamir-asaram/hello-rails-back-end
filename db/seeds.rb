@@ -8,5 +8,5 @@
 
 greetings = ['Hello', 'Bonjour', 'Merhaba', 'Hola', 'Ciao', 'Hallo', 'Hej', 'Ahoj', 'Salut', 'Shalom', 'Szia', 'Namaste', 'Salaam', 'Konnichiwa', 'Nǐ hǎo', 'Anyoung haseyo', 'Olá', 'Zdravstvuyte', 'Sawasdee', 'Guten tag', 'Kamusta', 'Salam', 'Selam', 'Sveiki']
 greetings.each do |greet|
-  Greeting.create(greeting: greet)
+  Greeting.create(greetings: greet)
 end
