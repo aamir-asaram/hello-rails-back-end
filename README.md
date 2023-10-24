@@ -34,6 +34,10 @@
 
   **hello-rails-back-end** serves as an API that allows users to fetch a random greeting using the endpoint `api/v1/greeting`
 
+## Hello REACT Front-End
+
+This is the [link](https://github.com/aamir-asaram/hello-react-front-end/) to the back end of this project
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
